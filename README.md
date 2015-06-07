@@ -1,0 +1,2 @@
+# cymatics
+Useful patterns implemented
